@@ -9,7 +9,7 @@
 
 ## Screenshot
 
-![Screenshot Aplikasi](/foto/screenshot.png)
+![Screenshot Aplikasi](https://github.com/orkvacy/Mobile/blob/main/pertemuan1/foto/screenshot.png)
 
 ## Cara Menjalankan
 
